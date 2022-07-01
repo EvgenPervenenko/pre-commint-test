@@ -1,2 +1,2 @@
 int maint(){
-    return 1; }
+    const auto a = 1; return 1; }
