@@ -1,1 +1,2 @@
-int maint(){ return 1; }
+int maint(){
+    return 1; }
